@@ -11,7 +11,7 @@ Google Colab: https://colab.research.google.com/drive/1-0eKIu6cGAZ47ROKQaF6EU-mH
 The notebook `cag_demo.ipynb` showcases the core steps of CAG:
 
 1. Loading the Mistral model and tokenizer
-2. Reading a local `document.txt` file containing information about you (For this case, me / Ronan Takizawa)
+2. Reading a local `document.txt` file containing information about you
 3. Preloading that knowledge into the model's context using a `DynamicCache`
 4. Answering user queries by referencing the cached knowledge, without real-time retrieval
 
