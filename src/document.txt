@@ -1,0 +1,20 @@
+document.txt
+
+Name: Ronan Takizawa
+
+Professional Background:
+- Founder of Stealth Startup (October 2024 - Present)
+- Open Source Developer at zkSecurity (August 2024 - Present)
+- Researcher at Secure Systems Lab, NYU (May 2024 - Present)
+- Founder of Punch Analytics (Acquired by POWA Boxing in January 2024)
+- Software Engineer Intern at Clear (May 2023 - August 2023)
+
+Education:
+- Bachelor of Arts in Computer Science from Colorado College
+- Previously attended:
+  * The British School in Tokyo
+  * The American Embassy School in New Delhi
+  * The American School in Japan
+
+Notable Achievements:
+- HackHarvard 2023 1st Place
